@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SAYA-ecom-site/static/css/main.4da86e4f.chunk.css",
+    "main.js": "/SAYA-ecom-site/static/js/main.c9074f89.chunk.js",
+    "main.js.map": "/SAYA-ecom-site/static/js/main.c9074f89.chunk.js.map",
+    "runtime-main.js": "/SAYA-ecom-site/static/js/runtime-main.c31cca5e.js",
+    "runtime-main.js.map": "/SAYA-ecom-site/static/js/runtime-main.c31cca5e.js.map",
+    "static/js/2.b0feaa45.chunk.js": "/SAYA-ecom-site/static/js/2.b0feaa45.chunk.js",
+    "static/js/2.b0feaa45.chunk.js.map": "/SAYA-ecom-site/static/js/2.b0feaa45.chunk.js.map",
+    "index.html": "/SAYA-ecom-site/index.html",
+    "static/css/main.4da86e4f.chunk.css.map": "/SAYA-ecom-site/static/css/main.4da86e4f.chunk.css.map",
+    "static/js/2.b0feaa45.chunk.js.LICENSE.txt": "/SAYA-ecom-site/static/js/2.b0feaa45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c31cca5e.js",
+    "static/js/2.b0feaa45.chunk.js",
+    "static/css/main.4da86e4f.chunk.css",
+    "static/js/main.c9074f89.chunk.js"
+  ]
+}
